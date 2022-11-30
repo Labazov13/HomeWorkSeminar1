@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\obj\Debug\net7.0\Exam6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\obj\Debug\net7.0\Exam6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\obj\Debug\net7.0\Exam6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\obj\Debug\net7.0\Exam6.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\obj\Debug\net7.0\Exam6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\bin\Debug\net7.0\Exam6.exe
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\bin\Debug\net7.0\Exam6.deps.json
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\bin\Debug\net7.0\Exam6.runtimeconfig.json
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\bin\Debug\net7.0\Exam6.dll
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\bin\Debug\net7.0\Exam6.pdb
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\obj\Debug\net7.0\Exam6.dll
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\obj\Debug\net7.0\refint\Exam6.dll
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\obj\Debug\net7.0\Exam6.pdb
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\obj\Debug\net7.0\Exam6.genruntimeconfig.cache
+C:\Users\User\Desktop\Programming\HomeWork\HWSem1\Exam6\obj\Debug\net7.0\ref\Exam6.dll
